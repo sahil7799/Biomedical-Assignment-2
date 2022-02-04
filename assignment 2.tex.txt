@@ -1,0 +1,65 @@
+\documentclass{article}
+% Comment the following line to NOT allow the usage of umlauts
+\usepackage[utf8]{inputenc}
+% Uncomment the following line to allow the usage of graphics (.png, .jpg)
+%\usepackage{graphicx}
+
+% Start the document
+\begin{document}
+
+% Create a new 1st level heading
+\section{HEALTH CARE SYSTEM:-}
+
+A Health Care System is the organisation of people, institution and resources involved in delivering health care to individuals. Nations must design and develop in such a way that their needs may get fulfilled keeping in mind the resources they have. A health system is, therefore, more than the pyramid of publicly owned facilities that deliver personal health services but include institutions, people and resources involved in delivering health care to individuals.
+
+\subsection{EXAMPLE:}
+1.Mother taking care of a sick child at home.
+
+2.Hospitals taking care of patients and treating them with best possible medication so that they may recover from the disease they are facing.
+
+3.Pharmacy providing medicines prescribed by doctor to overcome the disease from which the patient is going through.
+
+\section{GOAL:-}
+
+According to World Health Organisation (WHO), the goal of the health care system is to provide good health to the citizens, responsiveness to the expectations of the population, and fair means of funding operations. Other dimensions for the evaluation of health care system include Quality, Efficiency, Acceptability and Equity. Also continuity of health care is a major goal.
+
+\section{EVOLUTION OF HEALTH CARE SYSTEM:-}
+
+Evolution of Health Care System means positive changes in health care system to make it more efficient and modern to meet the growing needs of people. In recent times there has been a huge evolution in health care system. There have been a lot of new inventions in Health Care System over the past few years. According to me one of the greatest evolution of Health Care System in recent times is Covid-19 Vaccine. This evolution has helped a lot to survive pandemic.
+
+    If we will see the Health Care System 100 years earlier, there were very few medical equipment, there was no proper diagnosis to a disease and no proper medication was available. But if we will see the Health Care System right now, there is a tremendous change. Right now we have better machines which are easy to operate, compatible and more accurate. Now proper diagnosis can be done and proper treatment can be given. Still there are many more problems to overcome in Health Care System and probably we can overcome those gaps in future by evolving our Health Care System more and more.
+
+    Hence the more is evolution in Modern Health Care System, the better it will become and will result in more advancement of Health Care System which will lead to more efficient treatment of patients and thus will increase the probability of survival.
+
+\section{RECENT EVOLUTION IN MODERN HEALTH CARE SYSTEM:-}
+
+In recent times, there have been many evolution in Health Care System that has helped in overcoming various types of problems and diseases which patients were facing earlier. Some of the evolution are as follows-
+
+1.	Smart Vaccines:- Customized vaccines to effectively prevent various common and microbial diseases. 
+
+2.	Accurate Detection of Breast Cancer:- Just one drop of blood is enough to tell you if you might be at heightened risk of acquiring breast cancer.
+
+3.	3-D Printed Medical Tools:- Exact replicas of internal and external prosthetics can effortlessly be manufactured, to match the patient’s body type.
+
+4.	Enhanced Precision in Brain Surgery:- A retractor called Radiex has been developed, that can effectually hold back cortical tissue without increasing pressure in surrounding tissues.
+
+5.	Tracking Pregnancy and Child Birth:- A tiny patch glued onto the pregnant woman’s belly consist of image detection sensors. These can monitor uterine muscle movement, to help evaluate exactly when labour is progressing.
+
+\section{SCOPE OF EVOLUTION IN HEALTH CARE SYSTEM:-}
+
+ Though we have improved a lot as compared to previous times, still there are many more challenges and problems that is needed to be resolved as soon as possible. Hence more evolution is needed to be done in Health Care System. Some of the major challenges that needed to be resolved are as follows-
+
+1.	The facility of health care should available for each and every person. More and more health care facilities should be provided in remote areas.
+
+2.	Government should launch new policies so that poor people can also get the treatment.
+
+3.	Advance technologies like tele-medicine could increase the reach of public health care. 
+
+4.	Technology like EMR and big data analytics could provide vital insights to governments, policymakers, doctors and all stakeholders to improve public health and deal with epidemics and disease outbreaks.
+
+5.Connection and Collaboration with different other organisations could expand health care system and can make it more beneficial.
+% Uncomment the following two lines if you want to have a bibliography
+%\bibliographystyle{alpha}
+%\bibliography{document}
+
+\end{document}
